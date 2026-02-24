@@ -1,4 +1,4 @@
-const host = "https://webbookback.vercel.app";
+const host = "https://webbook-backend.vercel.app";
 
 export const getUser = `${host}/api/users`;
 export const getBooks = `${host}/api/books/`;
